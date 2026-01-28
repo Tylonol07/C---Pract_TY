@@ -19,7 +19,7 @@ int main()
     {
         cout << "You passed the class!" << endl;
 
-    } else if(grade <= 60)
+    } else if(grade <= 69)
     {
         cout << "You failed the class NIMROD !" << endl;
 
